@@ -1,3 +1,4 @@
 [submodule "libNIM"]
 	path = libNIM
 	url = git@github.com:Open-NIM/libNIM.git
+	branch = dev
